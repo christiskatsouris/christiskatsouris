@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m working in the field of Econometrics and Statistics. 
 
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
