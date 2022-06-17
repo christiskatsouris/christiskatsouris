@@ -2,6 +2,13 @@
 
 🌱 I’m working in the field of Econometrics and Statistics. 
 
+🔭 I’m looking to collaborate on topics in High Dimensional Statistics.
+⚡ I’m currently learning how to write cool R packages. 
+
+💻 I support [open science and open data](https://ropensci.org/).
+
+📫 How to reach me: christiskatsouris@gmail.com
+
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
