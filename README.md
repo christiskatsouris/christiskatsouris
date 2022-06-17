@@ -3,7 +3,7 @@
 🌱 I’m working in the field of Econometrics and Statistics. 
 
 - 🔭 I’m looking to collaborate on topics in High Dimensional Statistics. 
-- ⚡ I’m currently learning how to write cool R packages. 
+- ⚡ I’m currently learning how to write 'cool' [R packages](https://www.r-project.org/). 
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
