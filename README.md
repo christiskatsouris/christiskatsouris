@@ -7,7 +7,7 @@
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
-- 📫 How to reach me: christiskatsouris@gmail.com
+📫 How to reach me: christiskatsouris@gmail.com
 
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
