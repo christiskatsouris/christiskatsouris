@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m working in the field of Econometrics and Statistics. 
+🌱 I’m working in the fields of Econometrics and Statistics. 
 
 - 🔭 I’m looking to collaborate on topics in High Dimensional Statistics. 
 - ⚡ I’m currently learning how to write [R packages](https://www.r-project.org/). 
