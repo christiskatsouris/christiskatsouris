@@ -10,6 +10,9 @@
 
 📫 How to reach me: C.Katsouris@soton.ac.uk
 
+NEWs: I will be joining the University of Exeter Business School (UEBS) as a Visiting Lecturer in the Department of Economics this September.
+
+
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
