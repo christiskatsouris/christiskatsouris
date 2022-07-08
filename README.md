@@ -10,7 +10,7 @@
 
 📫 How to reach me: C.Katsouris@soton.ac.uk
 
-NEWs: I will be joining the University of Exeter Business School (UEBS) as a Visiting Lecturer in the Department of Economics this September.
+News: I will be joining the [University of Exeter Business School](http://business-school.exeter.ac.uk/) (UEBS) as a Visiting Lecturer in the Department of Economics this September.
 
 
 <!--
