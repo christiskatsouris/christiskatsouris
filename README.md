@@ -8,7 +8,7 @@
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
-📫 How to reach me: C.Katsouris@soton.ac.uk
+📫 How to reach me: C.Katsouris@soton.ac.uk and christiskatsouris@gmail.com
 
 News: I will be joining the [University of Exeter Business School](http://business-school.exeter.ac.uk/) as a Visiting Lecturer in Economics (Education and Scholarship) at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) in September 2022.
 
