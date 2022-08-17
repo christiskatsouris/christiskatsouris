@@ -12,7 +12,9 @@
 
 News: I will be joining the [University of Exeter Business School](http://business-school.exeter.ac.uk/) as a Visiting Lecturer in Economics (Education and Scholarship) at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) in September 2022.
 
-- ⚡ Fact: Did you know that the online education market (e-learning market) is one of the world's fastest-growing inductries? It is expected to reach almost 1 trillion U.S. dollars by the end of the decade! 
+- Fact 1: Did you know that the online education market (e-learning market) is one of the world's fastest-growing inductries? It is expected to reach almost 1 trillion U.S. dollars by the end of the decade! 
+
+- Fact 2: The planet's longest mountain range is underwater and is 10 times longer than the Andes!
 
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
