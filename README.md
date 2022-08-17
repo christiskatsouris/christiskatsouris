@@ -14,7 +14,7 @@ News: I will be joining the [University of Exeter Business School](http://busine
 
 - Fact 1: Did you know that the online education market (e-learning market) is one of the world's fastest-growing inductries? It is expected to reach almost 1 trillion U.S. dollars by the end of the decade! 
 
-- Fact 2: The planet's longest mountain range is underwater and is 10 times longer than the Andes!
+- Fact 2: Did you know that the planet's longest mountain range is underwater and is 10 times longer than the Andes? Is called the mid-ocean ridge. Spanning 40,389 miles around the globe, it's truly a global landmark!
 
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
