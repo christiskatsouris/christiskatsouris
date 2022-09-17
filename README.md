@@ -10,7 +10,7 @@
 
 📫 How to reach me: C.Katsouris@soton.ac.uk and christiskatsouris@gmail.com
 
-News: I am a Lecturer in Economics at the [University of Exeter Business School](http://business-school.exeter.ac.uk/), [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) since September 2022.
+News: I am a Lecturer in Economics at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/), [University of Exeter Business School](http://business-school.exeter.ac.uk/), since September 2022.
 
 
 <!--
