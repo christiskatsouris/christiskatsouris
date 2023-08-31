@@ -12,7 +12,7 @@
 
 Currently I am a Postdoctoral Research Fellow at the Department of Economics, University of Helsinki. 
 
-Previously, I was a Visitng Lecturer in Economics at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [University of Exeter Business School](http://business-school.exeter.ac.uk/), from September 2022 to September 2023.
+Previously, I was a Visiting Lecturer in Economics at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [University of Exeter Business School](http://business-school.exeter.ac.uk/), from September 2022 to September 2023.
 
 
 <!--
