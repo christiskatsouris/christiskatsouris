@@ -10,7 +10,7 @@
 
 📫 How to reach me: c.katsouris@exeter.ac.uk and christiskatsouris@gmail.com
 
-Currently I am a Postdoctoral Research Fellow at the Department of Economics, University of Helsinki. 
+I am a Postdoctoral Researcher at the Department of Economics, University of Helsinki. 
 
 Previously, I was a Visiting Lecturer in Economics at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [University of Exeter Business School](http://business-school.exeter.ac.uk/), from September 2022 to September 2023.
 
