@@ -8,7 +8,7 @@
 
 - 💻 I support [open science and open data](https://ropensci.org/).
 
-📫 How to reach me: c.katsouris@exeter.ac.uk and christiskatsouris@gmail.com
+📫 How to reach me: christiskatsouris@gmail.com
 
 I am a Postdoctoral Researcher at the Department of Economics, University of Helsinki. 
 
