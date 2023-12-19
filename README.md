@@ -10,11 +10,6 @@
 
 📫 How to reach me: christiskatsouris@gmail.com
 
-I am a Postdoctoral Researcher at the Department of Economics, University of Helsinki. 
-
-Previously, I was a Visiting Lecturer in Economics at the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [University of Exeter Business School](http://business-school.exeter.ac.uk/), from September 2022 to September 2023.
-
-
 <!--
 **christiskatsouris/christiskatsouris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
