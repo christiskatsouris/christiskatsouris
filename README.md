@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m working in the fields of Econometrics and Statistics. 
-
-- 🔭 I’m eager to collaborate on topics related to [Mathematical Statistics](https://www.amazon.co.uk/Mathematical-Statistics-Selected-Chapman-Statistical/dp/1498723802). 
-
-- ⚡ I’m currently learning how to write [R packages](https://www.r-project.org/). 
-
-- 💻 I support [open science and open data](https://ropensci.org/).
+🌱 I am an econometrician.  
 
 📫 How to reach me: christiskatsouris@gmail.com
 
